@@ -1,0 +1,4 @@
+- externalId: {{icapi_ds_external_id}}
+  name: ds_icecream_api
+  description: Ice Cream Factory Source Data
+  writeProtected: false
